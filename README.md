@@ -12,18 +12,7 @@ The website is hosted on GitHub Pages and can be accessed at [https://floiseau.g
 
 ## Technologies Used
 
-- HTML: Used for structuring the content and layout of the website.
-- CSS: Used for styling and formatting the appearance of the website.
-
-## Usage
-
-You can clone this repository to your local machine to make modifications or improvements to the website. Simply fork the repository, clone it to your local machine, and make changes as needed.
-
-```bash
-git clone https://github.com/floiseau/floiseau.github.io.git
-```
-
-Once you've made your changes, you can push them to your GitHub repository and deploy the updated website on GitHub Pages.
+- quarto: Used to generate the whole website.
 
 ## License
 

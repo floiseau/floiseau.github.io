@@ -1,0 +1,17 @@
+
+## Resources
+
+### Ph.D. Thesis
+My Ph.D. thesis dissertation and the presentation of my defense are available here:
+
+- [the dissertation](resources/documents/PhD_Thesis.pdf),
+- [the presentation](resources/documents/PhD_Defense.pdf).
+
+
+### Ph.D. Thesis template
+In collaboration with [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/), we made our Ph.D. thesis template openly available on GitHub: [https://github.com/floiseau/PhD_Thesis_Template](https://github.com/floiseau/PhD_Thesis_Template). If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.
+
+### Open-source dataset
+
+During my Ph.D. thesis, I generated and made public a dataset of effective elasticity tensor obtained from discrete element simulations. This dataset is hosted in the RechercheDataGouv repository ([https://doi.org/10.57745/LYHM4W](https://doi.org/10.57745/LYHM4W)) and can be freely used for research.
+

@@ -1,0 +1,34 @@
+---
+title: "Flavien Loiseau"
+# image: profile.jpg
+about:
+  template: solana
+---
+
+I am currently a Postdoctoral Researcher at IMSIA (UMR ENSTA, EdF, CNRS), where I am engaged in theoretical and numerical studies concerning the propagation of cracks in heterogeneous and/or anisotropic media.
+
+## Research
+My research interests lie at the intersection of mechanics of materials, theoretical modeling, and computational simulation. Currently, they primarily revolve around the modelling and simulation of damage and fracture in structures. In my research, I place a strong emphasis on establishing a solid mathematical foundation for the models and simulations.
+
+*Keywords :* Damage Mechanics, Anisotropy, Computational Mechanics, Fracture Mechanics.
+
+## Education
+My academic background combines a strong foundation in mechanics with effective teaching skills.
+I hold dual Master's degrees in Mechanics of Materials and Teaching of Mechanics, both obtained from ENS Paris-Saclay.
+Following my Masters, I completed my Ph.D. at Paris-Saclay University, where I focused on the modeling of anisotropic damage in quasi-brittle materials and structures using discrete element simulations as a reference.
+My research was conducted at the LMPS within ENS Paris-Saclay under the supervision of Rodrigue Desmorat and Cécile Oliver-Leblond.
+
+## Contact and social media
+
+|                    |      |
+|--------------------|------|
+| **Mail** 	     | [flavien.loiseau@ensta-paris.fr](mailto:flavien.loiseau@ensta-paris.fr) |
+| **Google Scholar** | [https://scholar.google.fr/citations?user=0UFftRMAAAAJ](https://scholar.google.fr/citations?user=0UFftRMAAAAJ) |
+| **ResearchGate**   | [https://www.researchgate.net/profile/Flavien-Loiseau](https://www.researchgate.net/profile/Flavien-Loiseau) |
+| **ORCID**          | [https://orcid.org/0000-0002-6305-7309](https://orcid.org/0000-0002-6305-7309) |
+| **GitHub**         | [https://github.com/floiseau](https://github.com/floiseau) |
+| **LinkedIn**       | [https://www.linkedin.com/in/flavien-loiseau/](https://www.linkedin.com/in/flavien-loiseau/) |
+| **Office address** | 181 Chemin de la Huniere et des Joncherettes, 91761 Palaiseau, Office C115|
+
+: { .striped .borderless }
+
