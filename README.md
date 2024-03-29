@@ -14,6 +14,13 @@ The website is hosted on GitHub Pages and can be accessed at [https://floiseau.g
 
 - quarto: Used to generate the whole website.
 
+## How to publish the website
+
+To publish the website to a GitHub Page, run the following commad.
+```bash
+quarto publish gh-pages
+```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
