@@ -1,6 +1,11 @@
 ---
 title: "Flavien Loiseau"
 # image: profile.jpg
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta name="google-site-verification" content="NRGz6ZYVJPc2T9YhBtKcQ92ZTaQ2MO2HWhfjQwAVFG0" />
 about:
   template: solana
 ---
