@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Flavien Loiseau"
+  site-url: https://floiseau.github.io/
   navbar:
     left:
       - publications.qmd
