@@ -40,5 +40,26 @@
     "title": "Flavien Loiseau",
     "section": "",
     "text": "My Ph.D. thesis dissertation and the presentation of my defense are available here:\n\nthe dissertation,\nthe presentation.\n\n\n\n\nIn collaboration with Alexandre Daby-Seesaram, we made our Ph.D. thesis template openly available on GitHub: https://github.com/floiseau/PhD_Thesis_Template. If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.\n\n\n\nDuring my Ph.D. thesis, I generated and made public a dataset of effective elasticity tensor obtained from discrete element simulations. This dataset is hosted in the RechercheDataGouv repository (https://doi.org/10.57745/LYHM4W) and can be freely used for research."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Title\nApplication of a generic path-following to phase-field fracture\n\n\nAuthors\nFlavien Loiseau, Véronique Lazarus\n\n\nLinks\nAbstract, Presentation to come"
+  },
+  {
+    "objectID": "talks.html#incoming-talks",
+    "href": "talks.html#incoming-talks",
+    "title": "Talks",
+    "section": "",
+    "text": "Title\nApplication of a generic path-following to phase-field fracture\n\n\nAuthors\nFlavien Loiseau, Véronique Lazarus\n\n\nLinks\nAbstract, Presentation to come"
+  },
+  {
+    "objectID": "talks.html#past-talks",
+    "href": "talks.html#past-talks",
+    "title": "Talks",
+    "section": "Past talks",
+    "text": "Past talks"
   }
 ]

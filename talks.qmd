@@ -1,0 +1,22 @@
+---
+title: "Talks"
+---
+
+## Incoming talks
+
+### NewFrac Conference (Porto, Portugal, from May 7th to 10th, 2024)
+
+|         |                                                                                    |
+|---------|------------------------------------------------------------------------------------|
+| Title   | Application of a generic path-following to phase-field fracture                    |
+| Authors | Flavien Loiseau, Véronique Lazarus                                                 |
+| Links   | [Abstract](resources/documents/2024-05_newfrac_abstract.pdf), Presentation to come |
+
+
+## Past talks
+
+
+
+
+
+
