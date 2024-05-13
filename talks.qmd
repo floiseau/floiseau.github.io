@@ -10,8 +10,7 @@ title: "Talks"
 |---------|------------------------------------------------------------------------------------|
 | Title   | Application of a generic path-following to phase-field fracture                    |
 | Authors | Flavien Loiseau, Véronique Lazarus                                                 |
-| Links   | [Abstract](resources/documents/2024-05_newfrac_abstract.pdf), Presentation to come |
-
+| Links   | [Abstract](resources/documents/2024-05_NewFrac/abstract.pdf), [Presentation](resources/documents/2024-05_NewFrac/presentation.html) |
 
 ## Past talks
 
