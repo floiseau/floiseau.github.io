@@ -4,6 +4,16 @@ title: "Talks"
 
 ## Incoming talks
 
+### MECA-J (Online, from August 28th to 30th, 2024)
+
+|         |                                                                                     |
+|---------|-------------------------------------------------------------------------------------|
+| Title   | Phase field fracture: Towards a generic method to follow the equilibrium path of the structure |
+| Authors | Flavien Loiseau, Véronique Lazarus                                                  |
+| Links   | [Abstract](resources/documents/2024-08_MECA-J/abstract.pdf), [Presentation](resources/documents/2024-08_MECA-J/presentation.html) |
+
+## Past talks
+
 ### NewFrac Conference (Porto, Portugal, from May 7th to 10th, 2024)
 
 |         |                                                                                    |
@@ -11,9 +21,6 @@ title: "Talks"
 | Title   | Application of a generic path-following to phase-field fracture                    |
 | Authors | Flavien Loiseau, Véronique Lazarus                                                 |
 | Links   | [Abstract](resources/documents/2024-05_NewFrac/abstract.pdf), [Presentation](resources/documents/2024-05_NewFrac/presentation.html) |
-
-## Past talks
-
 
 
 
