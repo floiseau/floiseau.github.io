@@ -5,7 +5,10 @@ project:
 
 website:
   title: "Flavien Loiseau"
+  description: Academic page of Flavien Loiseau.
+    It contains information about my research (interests, publications, talks, etc.) and some open resources such as my PhD thesis template.
   site-url: https://floiseau.github.io/
+  repo-url: https://github.com/floiseau/floiseau.github.io
   navbar:
     left:
       - publications.qmd
@@ -17,9 +20,8 @@ website:
 
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: simplex
     css: styles.css
     toc: true
-
+    smooth-scroll: true
+    mainfont: "Open Sans"
