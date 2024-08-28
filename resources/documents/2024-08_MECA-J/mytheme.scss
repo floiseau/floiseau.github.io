@@ -1,0 +1,150 @@
+/*-- scss:defaults --*/
+
+//// Custom variables
+// Colors
+$white: #ffffff;
+$darkblue: #003162;
+$black: #00002c;
+$red: #f1443a;
+$lightgreen: #40d2a7;
+$elecblue: #0033dd;
+$green: #007e9f;
+$orange: #ff950a;
+$copper: #ff7145;
+
+$darkbluetrans: #00316211;
+
+
+//// Customization
+// Colors
+$body-bg: $white;
+$body-color: $darkblue;
+$link-color: $green;
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+// $font-family-sans-serif: "Space Grotesk";
+// $font-family-monospace: "Space Mono";
+$presentation-font-size-root: 28px;
+
+// Headings
+$presentation-heading-font: "Space Grotesk", sans-serif !default;
+$presentation-h1-font-size: 2.0em;
+// $presentation-h2-font-size: 1.6em;
+//$presentation-h3-font-size: 1.3em;
+
+
+/*-- scss:rules --*/
+
+#title-slide {
+  text-align: left;
+
+  .title {
+    color: $body-color;
+    font-size: $presentation-h1-font-size;
+    // font-weight: 350;
+    // font-weight: lighter;
+  }
+
+  .subtitle {
+    color: $darkblue;
+    font-style: italic;
+    font-size: $presentation-h3-font-size;
+    margin-top: 0em;
+    font-weight: lighter;
+  }
+
+  .institute,
+  .quarto-title-affiliation,
+  .quarto-title-author-email {
+    font-style: italic;
+    // font-size: 80%;
+    // color: #7F7F7F;
+  }
+
+  .author,
+  .quarto-title-author-name {
+    color: $body-color;
+  }
+
+  .quarto-title-authors {
+    display: flex;
+    justify-content: left;
+
+    .quarto-title-author {
+      padding-left: 0em;
+      padding-right: 0em;
+      width: 100%;
+    }
+  }
+
+  .date {
+    color: $darkblue;
+    font-style: italic;
+    margin-top: 0em;
+    font-weight: lighter;
+  }
+}
+
+.subtitle {
+  color: $darkblue;
+  font: "Space Grotesk";
+  font-style: italic;
+  // font-weight: 350;
+  font-weight: lighter;
+  font-size: $presentation-h3-font-size;
+}
+
+.alert {
+  color: $red;
+}
+
+.example {
+  color: $lightgreen;
+}
+
+.highlight {
+  background-color: $darkblue;
+  color: $white;
+  padding: 0.1em;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+div {
+  &.callout {
+    font-size: 1.0em !important;
+  }
+}
+
+/* Container for the text box */
+.text-box {
+  border-radius: 24px;
+  /* Rounded corners */
+  padding: 12px;
+  /* Space inside the box */
+  background-color: $darkbluetrans;
+  /* Light background color */
+}
+
+/* Style for the title */
+.text-box .title {
+  font: $presentation-heading-font;
+  font-weight: bold;
+  /* Make the title bold */
+  font-size: 32px;
+  /* Slightly larger font size */
+  margin-bottom: 0px;
+  /* Space between the title and content */
+  color: $darkblue;
+  /* Dark gray color for the title */
+}
+
+/* Style for the content */
+.text-box .content {
+  font-size: $presentation-font-size-root;
+  /* Regular font size for content */
+  color: $darkblue;
+  /* Medium gray color for the content */
+}
