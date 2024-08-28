@@ -679,9 +679,9 @@ f(\lambda, \boldsymbol{u}, ...) - \Delta \tau= 0,
 </ul>
 <p><strong>Cons</strong></p>
 <ul>
-<li><em>A-prioi</em> choice of control nodes
+<li><em>A-priori</em> choice of control nodes
 <ul>
-<li>problem-depend</li>
+<li>Problem-depend</li>
 </ul></li>
 </ul>
 </div>
@@ -712,7 +712,7 @@ f(\lambda, \boldsymbol{u}, ...) - \Delta \tau= 0,
 </div>
 <div class="content">
 <p>The idea is to <strong>limit the maximum strain variation</strong> in the domain using the equation <span class="math display">\[
-\max_{\boldsymbol{x}\in \Omega} \left( \frac{\boldsymbol{\varepsilon}(\boldsymbol{u}_{n-1})}{\| \boldsymbol{\varepsilon}(\boldsymbol{u}_{n-1}) \|} : \color{\red}{\Delta \boldsymbol{\varepsilon}(\boldsymbol{u})} \right) - \Delta \tau= 0,
+\max_{\boldsymbol{x}\in \Omega} \left( \frac{\boldsymbol{\varepsilon}(\boldsymbol{u}_{n-1})}{\| \boldsymbol{\varepsilon}(\boldsymbol{u}_{n-1}) \|} : {\color{\red}\Delta \boldsymbol{\varepsilon}(\boldsymbol{u})} \right) - \Delta \tau= 0,
 \]</span></p>
 <p>where <span class="math inline">\(\Delta \tau\)</span> is the step size.</p>
 </div>
@@ -881,8 +881,6 @@ TODO
 
 <section id="conclusion" class="slide level2">
 <h2>Conclusion</h2>
-<div class="columns">
-<div id="vcenter" class="column" style="width:65%;">
 <p>We applied a path-following method based on control by <strong>maximum strain increment</strong>.</p>
 <p>It proved to be:</p>
 <ul>
@@ -890,10 +888,6 @@ TODO
 <li><strong>flexible</strong>: no problem nor model dependencies.</li>
 </ul>
 <p>Yet, we observed some <strong>divergence</strong> of the resolution in some specific cases.</p>
-</div><div id="vcenter" class="column" style="width:35%;">
-<p><img data-src="figures/plate_eccentric_hole_vertical.svg"></p>
-</div>
-</div>
 </section></section>
 <section id="thank-you-for-your-attention" class="title-slide slide level1 center">
 <h1>Thank you for your attention !</h1>
@@ -1253,7 +1247,7 @@ Zhai, X. (2023). <em>Crack propagation in elastic media with anisotropic fractur
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
