@@ -5,6 +5,17 @@ title: "Talks"
 ## Incoming talks
 
 ::: {.talk-card}
+#### GAMM PF 25 and Materials/Microstructure modelling: Analytics & Benchmarks
+*Karlsruhe, Germany, from February 12th to 14th, 2025*
+
+**Title:** Influence of the mesh on the crack path in phase-field fracture simulations  
+**Authors:** Flavien Loiseau, Edgar Zembra, Hervé Henry, Véronique Lazarus  
+**Links:** [Abstract](resources/documents/2025_GAMM/abstract.pdf) • [Presentation](resources/documents/2025_GAMM/presentation/presentation.html)
+:::
+
+## Past talks
+
+::: {.talk-card}
 #### MEALOR Days
 *Paris, France, from November 7th to 8th, 2024*
 
@@ -12,8 +23,6 @@ title: "Talks"
 **Authors:** Flavien Loiseau, Véronique Lazarus  
 **Links:** [Presentation](resources/documents/2024-11_MEALOR_Days/presentation.html)
 :::
-
-## Past talks
 
 ::: {.talk-card}
 #### Congrès des Jeunes Chercheurs en Mécanique - MECA-J 2024
