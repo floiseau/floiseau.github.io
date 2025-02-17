@@ -5,15 +5,24 @@ title: "Talks"
 ## Incoming talks
 
 ::: {.talk-card}
+#### International Conference on Computational Modeling of Fracture and Failure of Materials and Structures - CFRAC 2025
+*Porto, Portugal, from June 4th to 6th, 2025*
+
+**Title:** Following the equilibrium path during crack propagation under quasi-static loads: linear elastic fracture mechanics and phase-field approaches  
+**Authors:** Flavien Loiseau, Véronique Lazarus  
+**Links:** [Abstract](resources/documents/2025_CFRAC/cfrac_2025_abstract.pdf)
+:::
+
+## Past talks
+
+::: {.talk-card}
 #### GAMM PF 25 and Materials/Microstructure modelling: Analytics & Benchmarks
 *Karlsruhe, Germany, from February 12th to 14th, 2025*
 
 **Title:** Influence of the mesh on the crack path in phase-field fracture simulations  
 **Authors:** Flavien Loiseau, Edgar Zembra, Hervé Henry, Véronique Lazarus  
-**Links:** [Abstract](resources/documents/2025_GAMM/abstract.pdf) • [Presentation](resources/documents/2025_GAMM/presentation/presentation.html)
+**Links:** [Abstract](resources/documents/2025_GAMM/abstract.pdf) • [Presentation (html)](resources/documents/2025_GAMM/presentation/presentation.html) • [Presentation (pdf)](resources/documents/2025_GAMM/presentation/presentation.pdf)
 :::
-
-## Past talks
 
 ::: {.talk-card}
 #### MEALOR Days
@@ -40,4 +49,31 @@ title: "Talks"
 **Title:** Application of a generic path-following to phase-field fracture  
 **Authors:** Flavien Loiseau, Véronique Lazarus  
 **Links:** [Abstract](resources/documents/2024-05_NewFrac/abstract.pdf) • [Presentation](resources/documents/2024-05_NewFrac/presentation.html)
+:::
+
+::: {.talk-card}
+#### International Conference on Computational Modeling of Fracture and Failure of Materials and Structures - CFRAC 2023
+*Prague, Czech Republic, from June 21th to 23th, 2023*
+
+**Title:** Modeling anisotropic damage using a reconstruction by rational covariants of the elasticity tensor obtained by Discrete Element tests  
+**Authors:** Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat  
+**Links:** [Abstract](https://hal.science/hal-04346952)
+:::
+
+::: {.talk-card}
+#### Fourth International Conference on Damage Mechanics - ICDM4
+*Baton-Rouge, United States, from May 15th to 18th, 2024*
+
+**Title:** Anisotropic Damage Model Based on a Decomposition of the Elasticity Tensor in Terms of Covariants  
+**Authors:** Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat  
+**Links:** [Abstract](https://hal.science/hal-04346936)
+:::
+
+::: {.talk-card}
+#### Congrès Français de Mécanique 2022 - CFM2022
+*Nantes, France, from August 29th to September 2nd, 2024*
+
+**Title:** From bi-dimensional discrete model to anisotropic damage model: a feasibility study  
+**Authors:** Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat  
+**Links:** [Abstract](https://hal.science/hal-03892314)
 :::
