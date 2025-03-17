@@ -9,7 +9,6 @@ format:
 about:
   template: solana
 ---
-
 I am a Postdoctoral Researcher at IMSIA (UMR ENSTA Paris, EdF, CNRS). I am engaged in theoretical and numerical studies concerning the propagation of cracks in heterogeneous and/or anisotropic media.
 
 
@@ -65,6 +64,13 @@ I am a Postdoctoral Researcher at IMSIA (UMR ENSTA Paris, EdF, CNRS). I am engag
 My research interests lie at the intersection of mechanics of materials, theoretical modeling, and computational simulation. Currently, they primarily revolve around the modelling and simulation of damage and fracture in structures. In my research, I place a strong emphasis on establishing a solid mathematical foundation for the models and simulations.
 
 *Keywords :* Damage Mechanics, Anisotropy, Computational Mechanics, Fracture Mechanics.
+
+::: {#fig-en-passant}
+{{< video resources/videos/lefm_en_passant.mp4 >}}
+
+Simulation of "En passant" problem using the LEFM code developped during my postdoc at IMSIA.
+:::
+
 
 ## Education
 My academic background combines a strong foundation in mechanics with effective teaching skills.
