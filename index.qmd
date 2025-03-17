@@ -68,7 +68,7 @@ My research interests lie at the intersection of mechanics of materials, theoret
 ::: {#fig-en-passant}
 {{< video resources/videos/lefm_en_passant.mp4 >}}
 
-Simulation of "En passant" problem using the LEFM code developped during my postdoc at IMSIA.
+Simulation of the "En passant" problem using the Linear Elastic Fracture Mechanics (LEFM) code developed during my postdoc at IMSIA. In this configuration, the crack tips initially repel each other before the cracks eventually join.
 :::
 
 
