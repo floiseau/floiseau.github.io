@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Flavien Loiseau",
+    "section": "",
+    "text": "My Ph.D. thesis dissertation and the presentation of my defense are available here:\n\nthe dissertation,\nthe presentation.\n\n\n\n\nIn collaboration with Alexandre Daby-Seesaram, we made our Ph.D. thesis template openly available on GitHub: https://github.com/floiseau/PhD_Thesis_Template. If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.\n\n\n\nDuring my Ph.D. thesis, I generated and made public a dataset of effective elasticity tensor obtained from discrete element simulations. This dataset is hosted in the RechercheDataGouv repository (https://doi.org/10.57745/LYHM4W) and can be freely used for research."
+  },
+  {
+    "objectID": "resources.html#resources",
+    "href": "resources.html#resources",
+    "title": "Flavien Loiseau",
+    "section": "",
+    "text": "My Ph.D. thesis dissertation and the presentation of my defense are available here:\n\nthe dissertation,\nthe presentation.\n\n\n\n\nIn collaboration with Alexandre Daby-Seesaram, we made our Ph.D. thesis template openly available on GitHub: https://github.com/floiseau/PhD_Thesis_Template. If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.\n\n\n\nDuring my Ph.D. thesis, I generated and made public a dataset of effective elasticity tensor obtained from discrete element simulations. This dataset is hosted in the RechercheDataGouv repository (https://doi.org/10.57745/LYHM4W) and can be freely used for research."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Flavien Loiseau",
@@ -26,20 +40,6 @@
     "title": "Flavien Loiseau",
     "section": "Education",
     "text": "Education\nMy academic background combines a strong foundation in mechanics with effective teaching skills. I hold dual Master’s degrees in Mechanics of Materials and Teaching of Mechanics, both obtained from ENS Paris-Saclay. Following my Masters, I completed my Ph.D. at Paris-Saclay University, where I focused on the modeling of anisotropic damage in quasi-brittle materials and structures using discrete element simulations as a reference. My research was conducted at the LMPS within ENS Paris-Saclay under the supervision of Rodrigue Desmorat and Cécile Oliver-Leblond."
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Flavien Loiseau",
-    "section": "",
-    "text": "My Ph.D. thesis dissertation and the presentation of my defense are available here:\n\nthe dissertation,\nthe presentation.\n\n\n\n\nIn collaboration with Alexandre Daby-Seesaram, we made our Ph.D. thesis template openly available on GitHub: https://github.com/floiseau/PhD_Thesis_Template. If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.\n\n\n\nDuring my Ph.D. thesis, I generated and made public a dataset of effective elasticity tensor obtained from discrete element simulations. This dataset is hosted in the RechercheDataGouv repository (https://doi.org/10.57745/LYHM4W) and can be freely used for research."
-  },
-  {
-    "objectID": "resources.html#resources",
-    "href": "resources.html#resources",
-    "title": "Flavien Loiseau",
-    "section": "",
-    "text": "My Ph.D. thesis dissertation and the presentation of my defense are available here:\n\nthe dissertation,\nthe presentation.\n\n\n\n\nIn collaboration with Alexandre Daby-Seesaram, we made our Ph.D. thesis template openly available on GitHub: https://github.com/floiseau/PhD_Thesis_Template. If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.\n\n\n\nDuring my Ph.D. thesis, I generated and made public a dataset of effective elasticity tensor obtained from discrete element simulations. This dataset is hosted in the RechercheDataGouv repository (https://doi.org/10.57745/LYHM4W) and can be freely used for research."
   },
   {
     "objectID": "talks.html",
