@@ -18,49 +18,49 @@ I am a Postdoctoral Researcher at IMSIA (UMR ENSTA Paris, EdF, CNRS). I am engag
 
 :::{.contact-item}
 [
-  ![](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000){height=2cm} <br>
+  ![](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000){height=1.6cm} <br>
   Mail
 ](mailto:flavien.loiseau@ensta-paris.fr)
 :::
 
 :::{.contact-item}
 [
-  ![](https://cv.hal.science/build/img/hal-logo-header.png){height=2cm} <br>
+  ![](https://cv.hal.science/build/img/hal-logo-header.png){height=1.6cm} <br>
   HAL CV
 ](https://cv.hal.science/flavien-loiseau)
 :::
 
 :::{.contact-item}
 [
-  ![](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg){height=2cm} <br>
+  ![](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg){height=1.6cm} <br>
   Scholar
 ](https://scholar.google.fr/citations?user=0UFftRMAAAAJ)
 :::
 
 :::{.contact-item}
 [
-  ![](https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg){height=2cm} <br>
+  ![](https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg){height=1.6cm} <br>
   ResearchGate
 ](https://www.researchgate.net/profile/Flavien-Loiseau)
 :::
 
 :::{.contact-item}
 [
-  ![](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg){height=2cm} <br>
+  ![](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg){height=1.6cm} <br>
   OrcID
 ](https://orcid.org/0000-0002-6305-7309)
 :::
 
 :::{.contact-item}
 [
-  ![](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg){height=2cm} <br>
+  ![](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg){height=1.6cm} <br>
   GitHub
 ](https://github.com/floiseau)
 :::
 
 :::{.contact-item}
 [
-  ![](https://www.linkedin.com/favicon.ico){height=2cm} <br>
+  ![](https://www.linkedin.com/favicon.ico){height=1.6cm} <br>
   LinkedIn
 ](https://www.linkedin.com/in/flavien-loiseau/)
 :::
