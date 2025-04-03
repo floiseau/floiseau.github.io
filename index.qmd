@@ -25,6 +25,13 @@ I am a Postdoctoral Researcher at IMSIA (UMR ENSTA Paris, EdF, CNRS). I am engag
 
 :::{.contact-item}
 [
+  ![](https://cv.hal.science/build/img/hal-logo-header.png){height=2cm} <br>
+  HAL CV
+](https://cv.hal.science/flavien-loiseau)
+:::
+
+:::{.contact-item}
+[
   ![](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg){height=2cm} <br>
   Scholar
 ](https://scholar.google.fr/citations?user=0UFftRMAAAAJ)
