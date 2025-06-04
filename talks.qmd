@@ -10,7 +10,7 @@ title: "Talks"
 
 **Title:** Following the equilibrium path during crack propagation under quasi-static loads: linear elastic fracture mechanics and phase-field approaches  
 **Authors:** Flavien Loiseau, Véronique Lazarus  
-**Links:** [Abstract](resources/documents/2025_CFRAC/cfrac_2025_abstract.pdf)
+**Links:** [Abstract](resources/documents/2025_CFRAC/cfrac_2025_abstract.pdf) • [Presentation (html)](resources/documents/2025_CFRAC/cfrac_2025_presentation.html)
 :::
 
 ## Past talks
