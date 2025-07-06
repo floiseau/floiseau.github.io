@@ -13,6 +13,15 @@ title: "Talks"
 **Links:** [Abstract](resources/documents/2025-07_ESMC/abstract.pdf) • [Presentation (html)](resources/documents/2025-07_ESMC/presentation.html)
 :::
 
+::: {.talk-card}
+#### Congrès Français de Mécanique - CFM 2025
+*Metz, France, from August 25th to 29th, 2025*
+
+**Title:** Simulation de la fissuration par champ de phase: Analyse technique de l'initiation et la propagation de fissure
+**Authors:** Flavien Loiseau, Edgar Zembra, Hervé Henry, Veronique Lazarus
+**Links:** [Abstract (To come)](...)
+:::
+
 ## Past talks
 
 ::: {.talk-card}
