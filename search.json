@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Flavien Loiseau",
+    "section": "",
+    "text": "My Ph.D. thesis dissertation and the presentation of my defense are available here:\n\nthe dissertation,\nthe presentation.\n\n\n\n\nIn collaboration with Alexandre Daby-Seesaram, we made our Ph.D. thesis template openly available on GitHub: https://github.com/floiseau/PhD_Thesis_Template. If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.\n\n\n\nDuring my Ph.D. thesis, I generated and made public a dataset of effective elasticity tensor obtained from discrete element simulations. This dataset is hosted in the RechercheDataGouv repository (https://doi.org/10.57745/LYHM4W) and can be freely used for research."
+  },
+  {
+    "objectID": "resources.html#resources",
+    "href": "resources.html#resources",
+    "title": "Flavien Loiseau",
+    "section": "",
+    "text": "My Ph.D. thesis dissertation and the presentation of my defense are available here:\n\nthe dissertation,\nthe presentation.\n\n\n\n\nIn collaboration with Alexandre Daby-Seesaram, we made our Ph.D. thesis template openly available on GitHub: https://github.com/floiseau/PhD_Thesis_Template. If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.\n\n\n\nDuring my Ph.D. thesis, I generated and made public a dataset of effective elasticity tensor obtained from discrete element simulations. This dataset is hosted in the RechercheDataGouv repository (https://doi.org/10.57745/LYHM4W) and can be freely used for research."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Flavien Loiseau",
@@ -32,34 +46,20 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Porto, Portugal, from June 4th to 6th, 2025\nTitle: Following the equilibrium path during crack propagation under quasi-static loads: linear elastic fracture mechanics and phase-field approaches\nAuthors: Flavien Loiseau, Véronique Lazarus\nLinks: Abstract • Presentation (html)"
+    "text": "Lyon, France, from July 7th to 11th, 2025\nTitle: Modelling of crack propagation in strongly anisotropic media using phase-field fracture and LEFM Authors: Flavien Loiseau, Xinyuan Zhai, Véronique Lazarus\nLinks: Abstract • Presentation (html)"
   },
   {
     "objectID": "talks.html#incoming-talks",
     "href": "talks.html#incoming-talks",
     "title": "Talks",
     "section": "",
-    "text": "Porto, Portugal, from June 4th to 6th, 2025\nTitle: Following the equilibrium path during crack propagation under quasi-static loads: linear elastic fracture mechanics and phase-field approaches\nAuthors: Flavien Loiseau, Véronique Lazarus\nLinks: Abstract • Presentation (html)"
+    "text": "Lyon, France, from July 7th to 11th, 2025\nTitle: Modelling of crack propagation in strongly anisotropic media using phase-field fracture and LEFM Authors: Flavien Loiseau, Xinyuan Zhai, Véronique Lazarus\nLinks: Abstract • Presentation (html)"
   },
   {
     "objectID": "talks.html#past-talks",
     "href": "talks.html#past-talks",
     "title": "Talks",
     "section": "Past talks",
-    "text": "Past talks\n\nGAMM PF 25 and Materials/Microstructure modelling: Analytics & Benchmarks\nKarlsruhe, Germany, from February 12th to 14th, 2025\nTitle: Influence of the mesh on the crack path in phase-field fracture simulations\nAuthors: Flavien Loiseau, Edgar Zembra, Hervé Henry, Véronique Lazarus\nLinks: Abstract • Presentation (html) • Presentation (pdf)\n\n\nMEALOR Days\nParis, France, from November 7th to 8th, 2024\nTitle: Discussion on some difficulties with anisotropic phase-field fracture simulations\nAuthors: Flavien Loiseau, Véronique Lazarus\nLinks: Presentation\n\n\nCongrès des Jeunes Chercheurs en Mécanique - MECA-J 2024\nOnline, from August 28th to 30th, 2024\nTitle: Phase field fracture: Towards a generic method to follow the equilibrium path of the structure\nAuthors: Flavien Loiseau, Véronique Lazarus\nLinks: Abstract • Presentation\n\n\nNewFrac Conference\nPorto, Portugal, from May 7th to 10th, 2024\nTitle: Application of a generic path-following to phase-field fracture\nAuthors: Flavien Loiseau, Véronique Lazarus\nLinks: Abstract • Presentation\n\n\nInternational Conference on Computational Modeling of Fracture and Failure of Materials and Structures - CFRAC 2023\nPrague, Czech Republic, from June 21th to 23th, 2023\nTitle: Modeling anisotropic damage using a reconstruction by rational covariants of the elasticity tensor obtained by Discrete Element tests\nAuthors: Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat\nLinks: Abstract\n\n\nFourth International Conference on Damage Mechanics - ICDM4\nBaton-Rouge, United States, from May 15th to 18th, 2024\nTitle: Anisotropic Damage Model Based on a Decomposition of the Elasticity Tensor in Terms of Covariants\nAuthors: Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat\nLinks: Abstract\n\n\nCongrès Français de Mécanique 2022 - CFM2022\nNantes, France, from August 29th to September 2nd, 2024\nTitle: From bi-dimensional discrete model to anisotropic damage model: a feasibility study\nAuthors: Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat\nLinks: Abstract"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Flavien Loiseau",
-    "section": "",
-    "text": "My Ph.D. thesis dissertation and the presentation of my defense are available here:\n\nthe dissertation,\nthe presentation.\n\n\n\n\nIn collaboration with Alexandre Daby-Seesaram, we made our Ph.D. thesis template openly available on GitHub: https://github.com/floiseau/PhD_Thesis_Template. If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.\n\n\n\nDuring my Ph.D. thesis, I generated and made public a dataset of effective elasticity tensor obtained from discrete element simulations. This dataset is hosted in the RechercheDataGouv repository (https://doi.org/10.57745/LYHM4W) and can be freely used for research."
-  },
-  {
-    "objectID": "resources.html#resources",
-    "href": "resources.html#resources",
-    "title": "Flavien Loiseau",
-    "section": "",
-    "text": "My Ph.D. thesis dissertation and the presentation of my defense are available here:\n\nthe dissertation,\nthe presentation.\n\n\n\n\nIn collaboration with Alexandre Daby-Seesaram, we made our Ph.D. thesis template openly available on GitHub: https://github.com/floiseau/PhD_Thesis_Template. If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.\n\n\n\nDuring my Ph.D. thesis, I generated and made public a dataset of effective elasticity tensor obtained from discrete element simulations. This dataset is hosted in the RechercheDataGouv repository (https://doi.org/10.57745/LYHM4W) and can be freely used for research."
+    "text": "Past talks\n\nInternational Conference on Computational Modeling of Fracture and Failure of Materials and Structures - CFRAC 2025\nPorto, Portugal, from June 4th to 6th, 2025\nTitle: Following the equilibrium path during crack propagation under quasi-static loads: linear elastic fracture mechanics and phase-field approaches\nAuthors: Flavien Loiseau, Véronique Lazarus\nLinks: Abstract • Presentation (html)\n\n\nGAMM PF 25 and Materials/Microstructure modelling: Analytics & Benchmarks\nKarlsruhe, Germany, from February 12th to 14th, 2025\nTitle: Influence of the mesh on the crack path in phase-field fracture simulations\nAuthors: Flavien Loiseau, Edgar Zembra, Hervé Henry, Véronique Lazarus\nLinks: Abstract • Presentation (html) • Presentation (pdf)\n\n\nMEALOR Days\nParis, France, from November 7th to 8th, 2024\nTitle: Discussion on some difficulties with anisotropic phase-field fracture simulations\nAuthors: Flavien Loiseau, Véronique Lazarus\nLinks: Presentation\n\n\nCongrès des Jeunes Chercheurs en Mécanique - MECA-J 2024\nOnline, from August 28th to 30th, 2024\nTitle: Phase field fracture: Towards a generic method to follow the equilibrium path of the structure\nAuthors: Flavien Loiseau, Véronique Lazarus\nLinks: Abstract • Presentation\n\n\nNewFrac Conference\nPorto, Portugal, from May 7th to 10th, 2024\nTitle: Application of a generic path-following to phase-field fracture\nAuthors: Flavien Loiseau, Véronique Lazarus\nLinks: Abstract • Presentation\n\n\nInternational Conference on Computational Modeling of Fracture and Failure of Materials and Structures - CFRAC 2023\nPrague, Czech Republic, from June 21th to 23th, 2023\nTitle: Modeling anisotropic damage using a reconstruction by rational covariants of the elasticity tensor obtained by Discrete Element tests\nAuthors: Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat\nLinks: Abstract\n\n\nFourth International Conference on Damage Mechanics - ICDM4\nBaton-Rouge, United States, from May 15th to 18th, 2024\nTitle: Anisotropic Damage Model Based on a Decomposition of the Elasticity Tensor in Terms of Covariants\nAuthors: Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat\nLinks: Abstract\n\n\nCongrès Français de Mécanique 2022 - CFM2022\nNantes, France, from August 29th to September 2nd, 2024\nTitle: From bi-dimensional discrete model to anisotropic damage model: a feasibility study\nAuthors: Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat\nLinks: Abstract"
   }
 ]

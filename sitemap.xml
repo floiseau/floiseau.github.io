@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://floiseau.github.io/resources.html</loc>
+    <lastmod>2025-07-06T20:00:36.898Z</lastmod>
+  </url>
+  <url>
     <loc>https://floiseau.github.io/index.html</loc>
-    <lastmod>2025-06-11T08:28:18.882Z</lastmod>
+    <lastmod>2025-07-06T20:00:36.898Z</lastmod>
   </url>
   <url>
     <loc>https://floiseau.github.io/talks.html</loc>
-    <lastmod>2025-06-11T08:28:19.480Z</lastmod>
-  </url>
-  <url>
-    <loc>https://floiseau.github.io/resources.html</loc>
-    <lastmod>2025-06-11T08:28:18.882Z</lastmod>
+    <lastmod>2025-07-06T20:00:37.514Z</lastmod>
   </url>
   <url>
     <loc>https://floiseau.github.io/publications.html</loc>
-    <lastmod>2025-06-11T08:28:18.882Z</lastmod>
+    <lastmod>2025-07-06T20:00:36.898Z</lastmod>
   </url>
 </urlset>
