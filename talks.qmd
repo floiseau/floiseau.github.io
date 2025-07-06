@@ -5,6 +5,17 @@ title: "Talks"
 ## Incoming talks
 
 ::: {.talk-card}
+#### European Solid Mechanics Conference - ESMC 2025
+*Lyon, France, from July 7th to 11th, 2025*
+
+**Title:** Modelling of crack propagation in strongly anisotropic media using phase-field fracture and LEFM
+**Authors:** Flavien Loiseau, Xinyuan Zhai, Véronique Lazarus  
+**Links:** [Abstract](resources/documents/2025-07_ESMC/abstract.pdf) • [Presentation (html)](resources/documents/2025-07_ESMC/presentation.html)
+:::
+
+## Past talks
+
+::: {.talk-card}
 #### International Conference on Computational Modeling of Fracture and Failure of Materials and Structures - CFRAC 2025
 *Porto, Portugal, from June 4th to 6th, 2025*
 
@@ -12,8 +23,6 @@ title: "Talks"
 **Authors:** Flavien Loiseau, Véronique Lazarus  
 **Links:** [Abstract](resources/documents/2025_CFRAC/cfrac_2025_abstract.pdf) • [Presentation (html)](resources/documents/2025_CFRAC/cfrac_2025_presentation.html)
 :::
-
-## Past talks
 
 ::: {.talk-card}
 #### GAMM PF 25 and Materials/Microstructure modelling: Analytics & Benchmarks
