@@ -11,7 +11,7 @@ title: "Talks"
 
 **Title:** Simulation de la fissuration par champ de phase: Analyse technique de l'initiation et la propagation de fissure  
 **Authors:** Flavien Loiseau, Edgar Zembra, Hervé Henry, Véronique Lazarus  
-**Links:** [Abstract](resources/documents/2025-08_CFM/abstract.pdf) • [Article (HAL)](https://hal.science/hal-05221510) • [Presentation (html)](resources/documents/2025-08_CFM/presentation.html)
+**Links:** [Abstract](resources/documents/2025-08_CFM/abstract.pdf) • [Article (HAL)](https://hal.science/hal-05221510) • [Presentation (html)](resources/documents/2025-08_CFM/presentation.html) • [Presentation (pdf)](resources/documents/2025-08_CFM/presentation.pdf)
 :::
 
 ## Past talks
