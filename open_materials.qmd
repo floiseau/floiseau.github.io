@@ -1,7 +1,8 @@
 
-## Resources
+## Open materials
 
 ### Ph.D. Thesis
+
 My Ph.D. thesis dissertation and the presentation of my defense are available here:
 
 - [the dissertation](resources/documents/PhD_Thesis.pdf),
@@ -9,6 +10,7 @@ My Ph.D. thesis dissertation and the presentation of my defense are available he
 
 
 ### Ph.D. Thesis template
+
 In collaboration with [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/), we made our Ph.D. thesis template openly available on GitHub: [https://github.com/floiseau/PhD_Thesis_Template](https://github.com/floiseau/PhD_Thesis_Template). If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.
 
 ### Open-source dataset

@@ -1,0 +1,13 @@
+## Resources (WIP)
+
+This page contains various resources that I found useful.
+
+**TODO: Base this page on the presentation for students.**
+
+### Bibliography
+
+TODO
+
+### Scientific computing
+
+https://carpentries-lab.github.io/good-enough-practices/

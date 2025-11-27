@@ -13,7 +13,8 @@ website:
     left:
       - publications.qmd
       - talks.qmd
-      - resources.qmd
+      - open_materials.qmd
+      # - resources.qmd
         # right:
         #   - text: Google Scholar
         #     href: https://scholar.google.fr/citations?user=0UFftRMAAAAJ
