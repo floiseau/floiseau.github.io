@@ -4,6 +4,18 @@ title: "Talks"
 
 ## Incoming talks
 
+::: {.talk-card}
+#### MePhy & I-Gaia Day: Machine Learning in mechanics and physics
+*Paris, France, December 9th, 2025*
+
+**Title:** Revisiting Fracture Mechanic Handbooks with (Interpretable) Sparse Regression  
+**Authors:** Flavien Loiseau, Yann Epongue Djeugoue, Véronique Lazarus, Gilad Eliyahu-Yakir, Pedro Reis  
+**Links:** [Presentation (html)](https://floiseau.github.io/2025_12_MePhy_I-Gaia_Day) • [Presentation (pdf)](resources/documents/2025-12_MePhy_I-Gaia_Day/presentation.pdf)
+:::
+
+
+
+## Past talks
 
 ::: {.talk-card}
 #### Congrès Français de Mécanique - CFM 2025
@@ -13,8 +25,6 @@ title: "Talks"
 **Authors:** Flavien Loiseau, Edgar Zembra, Hervé Henry, Véronique Lazarus  
 **Links:** [Abstract](resources/documents/2025-08_CFM/abstract.pdf) • [Article (HAL)](https://hal.science/hal-05221510) • [Presentation (html)](resources/documents/2025-08_CFM/presentation.html) • [Presentation (pdf)](resources/documents/2025-08_CFM/presentation.pdf)
 :::
-
-## Past talks
 
 ::: {.talk-card}
 #### European Solid Mechanics Conference - ESMC 2025
