@@ -1,6 +1,38 @@
 
 ## Open materials
 
+### gcrack – Solver for Linear Elastic Fracture Mechanics
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub](https://img.shields.io/badge/GitHub-gcrack-blue)](https://github.com/floiseau/gcrack)
+[![PyPI](https://img.shields.io/badge/PyPI-gcrack-green)](https://pypi.org/project/gcrack/)
+[![Documentation](https://img.shields.io/badge/Docs-gcrack-blueviolet)](https://floiseau.github.io/gcrack)
+[![Zenodo](https://zenodo.org/badge/doi/10.5281/zenodo.18247511.svg)](https://doi.org/10.5281/zenodo.18247511)
+
+`gcrack` is a finite element solver for **linear elastic fracture mechanics**, developed during my postdoc at **ENSTA (IMSIA)**. It is built on [`fenicsx`](https://fenicsproject.org/) and features:
+
+- Incremental crack propagation with indirect load control, ensuring each load step occurs precisely at the propagation threshold.
+- Support for arbitrary anisotropic fracture properties, i.e., $G_c(\varphi)$.
+- Basic support for heterogeneous media.
+- A modular architecture for easy extension.
+
+---
+
+### fragma – Phase-Field Fracture Solver
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub](https://img.shields.io/badge/GitHub-fragma-blue)](https://github.com/floiseau/fragma)
+[![PyPI](https://img.shields.io/badge/PyPI-fragma-green)](https://pypi.org/project/fragma/)
+[![Documentation](https://img.shields.io/badge/Docs-fragma-blueviolet)](https://floiseau.github.io/fragma)
+[![Zenodo](https://zenodo.org/badge/doi/10.5281/zenodo.15654994.svg)](https://doi.org/10.5281/zenodo.15654994)
+
+`fragma` is a **phase-field fracture solver**, also developed during my postdoc at **ENSTA (IMSIA)** and based on [`fenicsx`](https://fenicsproject.org/). Key features include:
+
+- Indirect load control via path-following methods.
+- Crack propagation in anisotropic media (work in progress).
+
+---
+
 ### Ph.D. Thesis
 
 My Ph.D. thesis dissertation and the presentation of my defense are available here:
@@ -8,10 +40,13 @@ My Ph.D. thesis dissertation and the presentation of my defense are available he
 - [the dissertation](resources/documents/PhD_Thesis.pdf),
 - [the presentation](resources/documents/PhD_Defense.pdf).
 
+---
 
 ### Ph.D. Thesis template
 
 In collaboration with [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/), we made our Ph.D. thesis template openly available on GitHub: [https://github.com/floiseau/PhD_Thesis_Template](https://github.com/floiseau/PhD_Thesis_Template). If you encounter any issue, do not hesitate to report it to us using the GitHub issue tracker.
+
+---
 
 ### Open-source dataset
 
