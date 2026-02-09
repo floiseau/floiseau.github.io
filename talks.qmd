@@ -5,6 +5,17 @@ title: "Talks"
 ## Incoming talks
 
 ::: {.talk-card}
+#### European Mechanics of Materials Conferences (EMMC20)
+*Firenze, Italy, 27th-29th May, 2026.*
+
+**Title:** Path-Following Methods for Quasi-Static Crack Propagation in Phase-Field Fracture Models  
+**Authors:** Flavien Loiseau, Véronique Lazarus  
+**Links:** [Abstract (pdf)](resources/documents/2026-06_EMMC20/abstract.pdf)
+:::
+
+## Past talks
+
+::: {.talk-card}
 #### MePhy & I-Gaia Day: Machine Learning in mechanics and physics
 *Paris, France, December 9th, 2025*
 
@@ -12,10 +23,6 @@ title: "Talks"
 **Authors:** Flavien Loiseau, Yann Epongue Djeugoue, Véronique Lazarus, Gilad Eliyahu-Yakir, Pedro Reis  
 **Links:** [Presentation (html)](https://floiseau.github.io/2025_12_MePhy_I-Gaia_Day) • [Presentation (pdf)](resources/documents/2025-12_MePhy_I-Gaia_Day/presentation.pdf)
 :::
-
-
-
-## Past talks
 
 ::: {.talk-card}
 #### Congrès Français de Mécanique - CFM 2025
