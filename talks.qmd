@@ -5,12 +5,21 @@ title: "Talks"
 ## Incoming talks
 
 ::: {.talk-card}
+#### GIMC–SIMAI-YOUNG 2026 Conference
+*Pisa, Italy, 3th-5th June, 2026.*
+
+**Title:** Path-following methods for quasi-static crack propagation : Application to phase-field fracture  
+**Authors:** Flavien Loiseau, Véronique Lazarus  
+**Links:** [Abstract (pdf)](resources/documents/2026-06_GIMC_SIMAI_Young_2026/abstract.pdf)
+:::
+
+::: {.talk-card}
 #### European Mechanics of Materials Conferences (EMMC20)
 *Firenze, Italy, 27th-29th May, 2026.*
 
 **Title:** Path-Following Methods for Quasi-Static Crack Propagation in Phase-Field Fracture Models  
 **Authors:** Flavien Loiseau, Véronique Lazarus  
-**Links:** [Abstract (pdf)](resources/documents/2026-06_EMMC20/abstract.pdf)
+**Links:** [Abstract (pdf)](resources/documents/2026-05_EMMC20/abstract.pdf)
 :::
 
 ## Past talks
