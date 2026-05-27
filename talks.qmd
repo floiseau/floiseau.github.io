@@ -19,7 +19,7 @@ title: "Talks"
 
 **Title:** Path-Following Methods for Quasi-Static Crack Propagation in Phase-Field Fracture Models  
 **Authors:** Flavien Loiseau, Véronique Lazarus  
-**Links:** [Abstract (pdf)](resources/documents/2026-05_EMMC20/abstract.pdf)
+**Links:** [Abstract (pdf)](resources/documents/2026-05_EMMC20/abstract.pdf) • [Presentation (html)](https://floiseau.github.io/2026_EMMC20_Presentation)
 :::
 
 ## Past talks
