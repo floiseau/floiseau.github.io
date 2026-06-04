@@ -10,8 +10,11 @@ title: "Talks"
 
 **Title:** Path-following methods for quasi-static crack propagation : Application to phase-field fracture  
 **Authors:** Flavien Loiseau, Véronique Lazarus  
-**Links:** [Abstract (pdf)](resources/documents/2026-06_GIMC_SIMAI_Young_2026/abstract.pdf)
+**Links:** [Abstract (pdf)](resources/documents/2026-06_GIMC_SIMAI_Young_2026/abstract.pdf) • [Presentation (html)](https://floiseau.github.io/2026_GIMC_SIMAI_Young_Presentation/)
 :::
+
+
+## Past talks
 
 ::: {.talk-card}
 #### European Mechanics of Materials Conferences (EMMC20)
@@ -21,8 +24,6 @@ title: "Talks"
 **Authors:** Flavien Loiseau, Véronique Lazarus  
 **Links:** [Abstract (pdf)](resources/documents/2026-05_EMMC20/abstract.pdf) • [Presentation (html)](https://floiseau.github.io/2026_EMMC20_Presentation)
 :::
-
-## Past talks
 
 ::: {.talk-card}
 #### MePhy & I-Gaia Day: Machine Learning in mechanics and physics
