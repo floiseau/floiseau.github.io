@@ -9,8 +9,10 @@ format:
 about:
   template: solana
 ---
-I am a Postdoctoral Researcher at IMSIA (UMR ENSTA Paris, EdF, CNRS). I am engaged in theoretical and numerical studies concerning the propagation of cracks in heterogeneous and/or anisotropic media.
 
+I am an Associate Professor at INSA Lyon and a researcher at LaMCoS.
+My work focuses on theoretical and numerical modeling of material degradation, particularly damage and fracture mechanics.
+I also study complex material behavior, including anisotropy, and associated numerical methods.
 
 ## Contact and social media
 
@@ -20,7 +22,7 @@ I am a Postdoctoral Researcher at IMSIA (UMR ENSTA Paris, EdF, CNRS). I am engag
 [
   ![](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000){height=1.6cm} <br>
   Mail
-](mailto:flavien.loiseau@ensta-paris.fr)
+](mailto:flavien.loiseau@insa-lyon.fr)
 :::
 
 :::{.contact-item}
@@ -75,7 +77,7 @@ My research interests lie at the intersection of mechanics of materials, theoret
 ::: {#fig-en-passant}
 {{< video resources/videos/lefm_en_passant.mp4 >}}
 
-Simulation of the "En passant" problem using the Linear Elastic Fracture Mechanics (LEFM) code developed during my postdoc at IMSIA. In this configuration, the crack tips initially repel each other before the cracks eventually join.
+Simulation of the "En passant" problem using the Linear Elastic Fracture Mechanics (LEFM) code [gcrack](https://github.com/floiseau/gcrack), developed during my postdoc at IMSIA. In this configuration, the crack tips initially repel each other before the cracks eventually join.
 :::
 
 

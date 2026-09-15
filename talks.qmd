@@ -4,6 +4,9 @@ title: "Talks"
 
 ## Incoming talks
 
+
+## Past talks
+
 ::: {.talk-card}
 #### GIMC–SIMAI-YOUNG 2026 Conference
 *Pisa, Italy, 3th-5th June, 2026.*
@@ -12,9 +15,6 @@ title: "Talks"
 **Authors:** Flavien Loiseau, Véronique Lazarus  
 **Links:** [Abstract (pdf)](resources/documents/2026-06_GIMC_SIMAI_Young_2026/abstract.pdf) • [Presentation (html)](https://floiseau.github.io/2026_GIMC_SIMAI_Young_Presentation/)
 :::
-
-
-## Past talks
 
 ::: {.talk-card}
 #### European Mechanics of Materials Conferences (EMMC20)
