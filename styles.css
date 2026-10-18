@@ -43,3 +43,285 @@
   flex-direction: column; /* Keeps icon and text stacked vertically */
   align-items: center;
 }
+
+/* Publication styles */
+.publication-entry {
+  border-left: 4px solid #007acc;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  border-radius: 0 5px 5px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.publication-entry:hover {
+  background-color: #f0f0f0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.publication-title {
+  font-weight: bold;
+  margin-bottom: 8px;
+  font-size: 1.05em;
+}
+
+.publication-title a {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.publication-title a:hover {
+  color: #007acc;
+}
+
+.publication-authors {
+  color: #555;
+  margin-bottom: 8px;
+  font-size: 0.95em;
+}
+
+.publication-authors strong {
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+.publication-journal {
+  color: #666;
+  margin-bottom: 8px;
+  font-size: 0.9em;
+}
+
+.publication-links {
+  margin-top: 10px;
+}
+
+.publication-links a {
+  display: inline-block;
+  padding: 3px 8px;
+  margin-right: 8px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 0.85em;
+  font-weight: 500;
+}
+
+.doi-badge {
+  background-color: #e8f4f8;
+  color: #0066cc;
+  border: 1px solid #0066cc;
+}
+
+.doi-badge:hover {
+  background-color: #0066cc;
+  color: white;
+}
+
+.hal-badge {
+  background-color: #f0f8ff;
+  color: #0056b3;
+  border: 1px solid #0056b3;
+}
+
+.hal-badge:hover {
+  background-color: #0056b3;
+  color: white;
+}
+
+.publications-year {
+  margin-bottom: 30px;
+}
+
+.publications-year h3 {
+  border-bottom: 2px solid #007acc;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+  color: #2c3e50;
+}
+
+/* Talk entry styles - matching publication styling */
+section.talk-entry,
+.talk-entry {
+  border-left: 4px solid #2c3e50;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  border-radius: 0 5px 5px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+section.talk-entry:hover,
+.talk-entry:hover {
+  background-color: #f0f0f0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+section.talk-entry h3,
+.talk-entry h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #2c3e50;
+  font-size: 1.05em;
+}
+
+section.talk-entry p,
+.talk-entry p {
+  margin: 5px 0;
+}
+
+section.talk-entry p em,
+.talk-entry p em {
+  color: #666;
+  font-size: 0.9em;
+}
+
+/* Talk title - matching publication title style */
+section.talk-entry p:first-of-type,
+.talk-entry p:first-of-type {
+  font-weight: normal;
+  margin-bottom: 8px;
+  font-size: 1.05em;
+  color: #2c3e50;
+}
+
+/* Talk authors - matching publication authors style */
+section.talk-entry p:first-of-type + p,
+.talk-entry p:first-of-type + p {
+  color: #555;
+  font-size: 0.95em;
+}
+
+section.talk-entry p:first-of-type + p strong,
+section.talk-entry p:first-of-type + p <strong>,
+.talk-entry p:first-of-type + p strong,
+.talk-entry p:first-of-type + p <strong> {
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+/* Talk links - matching publication links style */
+section.talk-entry p:last-child,
+.talk-entry p:last-child {
+  margin-top: 10px;
+}
+
+section.talk-entry a,
+.talk-entry a {
+  display: inline-block;
+  padding: 3px 8px;
+  margin-right: 8px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 0.85em;
+  font-weight: 500;
+  background-color: #f0f8ff;
+  color: #0056b3;
+  border: 1px solid #0056b3;
+}
+
+section.talk-entry a:hover,
+.talk-entry a:hover {
+  background-color: #0056b3;
+  color: white;
+}
+
+/* Loading spinner */
+.loading-spinner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  text-align: center;
+}
+
+.spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  border-top: 4px solid #007acc;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+  margin-bottom: 15px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Index page styles */
+/* Research areas list */
+#research li {
+  margin-bottom: 8px;
+}
+
+/* Featured software */
+.featured-software {
+  margin-top: 15px;
+}
+
+.featured-software ul {
+  padding-left: 20px;
+}
+
+.featured-software li {
+  margin-bottom: 8px;
+}
+
+/* Figure caption styling */
+#fig-en-passant figcaption {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: #555;
+  text-align: left;
+}
+
+/* Video container */
+#fig-en-passant video {
+  max-width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* News items - matching publication/talk styling */
+.news-item {
+  border-left: 4px solid #28a745;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  border-radius: 0 5px 5px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.news-item:hover {
+  background-color: #f0f0f0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.news-item p {
+  margin: 0;
+}
+
+.news-item p:first-child {
+  font-size: 1.05em;
+  color: #2c3e50;
+  margin-bottom: 8px;
+}
+
+.news-item a {
+  display: inline-block;
+  padding: 3px 8px;
+  margin-right: 8px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 0.85em;
+  font-weight: 500;
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #155724;
+}
+
+.news-item a:hover {
+  background-color: #155724;
+  color: white;
+}
