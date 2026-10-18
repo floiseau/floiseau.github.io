@@ -10,9 +10,57 @@ about:
   template: solana
 ---
 
-I am an Associate Professor at INSA Lyon and a researcher at LaMCoS.
-My work focuses on theoretical and numerical modeling of material degradation, particularly damage and fracture mechanics.
-I also study complex material behavior, including anisotropy, and associated numerical methods.
+## About me
+
+I am an Associate Professor at INSA Lyon, performing my research at LaMCoS.
+My work focuses on **theoretical and numerical modeling of material degradation**, with expertise in damage mechanics, anisotropy, and fracture mechanics.
+I place a strong emphasis on establishing solid mathematical foundations for models and simulations.
+
+## News
+
+::: {.news-item}
+📝 [18-09-2026] **New preprint online**
+
+Numerical benchmark to assess sensitivity to spatial discretization in quasi-static fracture simulations: Application to phase-field models
+
+[Read on HAL](https://hal.science/hal-05755195)
+:::
+
+## Research
+
+My research interests lie at the intersection of mechanics of materials, theoretical modeling, and computational simulation.
+Currently, they primarily revolve around the modeling and simulation of damage and fracture in structures.
+
+### Key Research Areas
+- **Damage Mechanics**: Theoretical and computational approaches to material degradation
+- **Fracture Mechanics**: Linear Elastic Fracture Mechanics (LEFM) and phase-field approaches
+- **Computational Mechanics**: Advanced numerical methods for complex material simulations
+- **Constitutive modeling**: Modeling material behavior, in particular with anisotropy or multi-physic couplings
+
+*Keywords:* Damage Mechanics, Anisotropy, Computational Mechanics, Fracture Mechanics.
+
+::: {#fig-en-passant}
+{{< video resources/videos/lefm_en_passant.mp4 >}}
+
+Simulation of the "En passant" problem using the Linear Elastic Fracture Mechanics (LEFM) code [gcrack](https://github.com/floiseau/gcrack), developed during my postdoc at IMSIA.
+In this configuration, the crack tips initially repel each other before the cracks eventually join.
+:::
+
+### Featured Software
+I develop and maintain open-source software for fracture mechanics:
+
+- **[gcrack](https://github.com/floiseau/gcrack)** - Finite element solver for Linear Elastic Fracture Mechanics
+- **[fragma](https://github.com/floiseau/fragma)** - Phase-field fracture solver with path-following methods
+
+## Education
+My academic background combines a strong foundation in mechanics with effective teaching skills.
+I hold dual Master's degrees in Mechanics of Materials and Teaching of Mechanics, both obtained from ENS Paris-Saclay.
+
+Following my Masters, I completed my Ph.D. at Paris-Saclay University, where I focused on the modeling of anisotropic damage in quasi-brittle materials and structures using discrete element simulations as a reference.
+My research was conducted at the LMPS within ENS Paris-Saclay under the supervision of Rodrigue Desmorat and Cécile Oliver-Leblond.
+
+Afterward, I did a postdoc at ENSTA, in the IMSIA lab, under the supervision of Véronique Lazarus.
+My work focused on the analytical and numerical modeling of crack propagation in anisotropic and/or heterogeneous media.
 
 ## Contact and social media
 
@@ -68,21 +116,3 @@ I also study complex material behavior, including anisotropy, and associated num
 :::
 
 ::::
-
-## Research
-My research interests lie at the intersection of mechanics of materials, theoretical modeling, and computational simulation. Currently, they primarily revolve around the modelling and simulation of damage and fracture in structures. In my research, I place a strong emphasis on establishing a solid mathematical foundation for the models and simulations.
-
-*Keywords :* Damage Mechanics, Anisotropy, Computational Mechanics, Fracture Mechanics.
-
-::: {#fig-en-passant}
-{{< video resources/videos/lefm_en_passant.mp4 >}}
-
-Simulation of the "En passant" problem using the Linear Elastic Fracture Mechanics (LEFM) code [gcrack](https://github.com/floiseau/gcrack), developed during my postdoc at IMSIA. In this configuration, the crack tips initially repel each other before the cracks eventually join.
-:::
-
-
-## Education
-My academic background combines a strong foundation in mechanics with effective teaching skills.
-I hold dual Master's degrees in Mechanics of Materials and Teaching of Mechanics, both obtained from ENS Paris-Saclay.
-Following my Masters, I completed my Ph.D. at Paris-Saclay University, where I focused on the modeling of anisotropic damage in quasi-brittle materials and structures using discrete element simulations as a reference.
-My research was conducted at the LMPS within ENS Paris-Saclay under the supervision of Rodrigue Desmorat and Cécile Oliver-Leblond.

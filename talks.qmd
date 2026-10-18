@@ -7,119 +7,132 @@ title: "Talks"
 
 ## Past talks
 
-::: {.talk-card}
-#### GIMC–SIMAI-YOUNG 2026 Conference
-*Pisa, Italy, 3th-5th June, 2026.*
+::: {.talk-entry}
+Path-following methods for quasi-static crack propagation: Application to phase-field fracture
 
-**Title:** Path-following methods for quasi-static crack propagation : Application to phase-field fracture  
-**Authors:** Flavien Loiseau, Véronique Lazarus  
-**Links:** [Abstract (pdf)](resources/documents/2026-06_GIMC_SIMAI_Young_2026/abstract.pdf) • [Presentation (html)](https://floiseau.github.io/2026_GIMC_SIMAI_Young_Presentation/)
+<strong>Flavien Loiseau</strong>, Véronique Lazarus
+
+*GIMC–SIMAI-YOUNG 2026 Conference <br> Pisa, Italy, 3rd-5th June, 2026.*
+
+[Abstract (pdf)](resources/documents/2026-06_GIMC_SIMAI_Young_2026/abstract.pdf) • [Presentation (html)](https://floiseau.github.io/2026_GIMC_SIMAI_Young_Presentation/)
 :::
 
-::: {.talk-card}
-#### European Mechanics of Materials Conferences (EMMC20)
-*Firenze, Italy, 27th-29th May, 2026.*
+::: {.talk-entry}
+Path-Following Methods for Quasi-Static Crack Propagation in Phase-Field Fracture Models
 
-**Title:** Path-Following Methods for Quasi-Static Crack Propagation in Phase-Field Fracture Models  
-**Authors:** Flavien Loiseau, Véronique Lazarus  
-**Links:** [Abstract (pdf)](resources/documents/2026-05_EMMC20/abstract.pdf) • [Presentation (html)](https://floiseau.github.io/2026_EMMC20_Presentation)
+<strong>Flavien Loiseau</strong>, Véronique Lazarus
+
+*European Mechanics of Materials Conferences (EMMC20) <br> Firenze, Italy, 27th-29th May, 2026.*
+
+[Abstract (pdf)](resources/documents/2026-05_EMMC20/abstract.pdf) • [Presentation (html)](https://floiseau.github.io/2026_EMMC20_Presentation)
 :::
 
-::: {.talk-card}
-#### MePhy & I-Gaia Day: Machine Learning in mechanics and physics
-*Paris, France, December 9th, 2025*
+::: {.talk-entry}
+Revisiting Fracture Mechanic Handbooks with (Interpretable) Sparse Regression
 
-**Title:** Revisiting Fracture Mechanic Handbooks with (Interpretable) Sparse Regression  
-**Authors:** Flavien Loiseau, Yann Epongue Djeugoue, Véronique Lazarus, Gilad Eliyahu-Yakir, Pedro Reis  
-**Links:** [Presentation (html)](https://floiseau.github.io/2025_12_MePhy_I-Gaia_Day) • [Presentation (pdf)](resources/documents/2025-12_MePhy_I-Gaia_Day/presentation.pdf)
+<strong>Flavien Loiseau</strong>, Yann Epongue Djeugoue, Véronique Lazarus, Gilad Eliyahu-Yakir, Pedro Reis
+
+*MePhy & I-Gaia Day: Machine Learning in mechanics and physics <br> Paris, France, December 9th, 2025*
+
+[Presentation (html)](https://floiseau.github.io/2025_12_MePhy_I-Gaia_Day) • [Presentation (pdf)](resources/documents/2025-12_MePhy_I-Gaia_Day/presentation.pdf)
 :::
 
-::: {.talk-card}
-#### Congrès Français de Mécanique - CFM 2025
-*Metz, France, from August 25th to 29th, 2025*
+::: {.talk-entry}
+Simulation de la fissuration par champ de phase: Analyse technique de l'initiation et la propagation de fissure
 
-**Title:** Simulation de la fissuration par champ de phase: Analyse technique de l'initiation et la propagation de fissure  
-**Authors:** Flavien Loiseau, Edgar Zembra, Hervé Henry, Véronique Lazarus  
-**Links:** [Abstract](resources/documents/2025-08_CFM/abstract.pdf) • [Article (HAL)](https://hal.science/hal-05221510) • [Presentation (html)](resources/documents/2025-08_CFM/presentation.html) • [Presentation (pdf)](resources/documents/2025-08_CFM/presentation.pdf)
+<strong>Flavien Loiseau</strong>, Edgar Zembra, Hervé Henry, Véronique Lazarus
+
+*Congrès Français de Mécanique - CFM 2025 <br> Metz, France, from August 25th to 29th, 2025*
+
+[Abstract](resources/documents/2025-08_CFM/abstract.pdf) • [Article (HAL)](https://hal.science/hal-05221510) • [Presentation (html)](resources/documents/2025-08_CFM/presentation.html) • [Presentation (pdf)](resources/documents/2025-08_CFM/presentation.pdf)
 :::
 
-::: {.talk-card}
-#### European Solid Mechanics Conference - ESMC 2025
-*Lyon, France, from July 7th to 11th, 2025*
+::: {.talk-entry}
+Modelling of crack propagation in strongly anisotropic media using phase-field fracture and LEFM
 
-**Title:** Modelling of crack propagation in strongly anisotropic media using phase-field fracture and LEFM  
-**Authors:** Flavien Loiseau, Xinyuan Zhai, Véronique Lazarus  
-**Links:** [Abstract](resources/documents/2025-07_ESMC/abstract.pdf) • [Presentation (html)](resources/documents/2025-07_ESMC/presentation.html)
+<strong>Flavien Loiseau</strong>, Xinyuan Zhai, Véronique Lazarus
+
+*European Solid Mechanics Conference - ESMC 2025 <br> Lyon, France, from July 7th to 11th, 2025*
+
+[Abstract](resources/documents/2025-07_ESMC/abstract.pdf) • [Presentation (html)](resources/documents/2025-07_ESMC/presentation.html)
 :::
 
-::: {.talk-card}
-#### International Conference on Computational Modeling of Fracture and Failure of Materials and Structures - CFRAC 2025
-*Porto, Portugal, from June 4th to 6th, 2025*
+::: {.talk-entry}
+Following the equilibrium path during crack propagation under quasi-static loads: linear elastic fracture mechanics and phase-field approaches
 
-**Title:** Following the equilibrium path during crack propagation under quasi-static loads: linear elastic fracture mechanics and phase-field approaches  
-**Authors:** Flavien Loiseau, Véronique Lazarus  
-**Links:** [Abstract](resources/documents/2025_CFRAC/cfrac_2025_abstract.pdf) • [Presentation (html)](resources/documents/2025_CFRAC/cfrac_2025_presentation.html)
+<strong>Flavien Loiseau</strong>, Véronique Lazarus
+
+*International Conference on Computational Modeling of Fracture and Failure of Materials and Structures - CFRAC 2025 <br> Porto, Portugal, from June 4th to 6th, 2025*
+
+[Abstract](resources/documents/2025_CFRAC/cfrac_2025_abstract.pdf) • [Presentation (html)](resources/documents/2025_CFRAC/cfrac_2025_presentation.html)
 :::
 
-::: {.talk-card}
-#### GAMM PF 25 and Materials/Microstructure modelling: Analytics & Benchmarks
-*Karlsruhe, Germany, from February 12th to 14th, 2025*
+::: {.talk-entry}
+Influence of the mesh on the crack path in phase-field fracture simulations
 
-**Title:** Influence of the mesh on the crack path in phase-field fracture simulations  
-**Authors:** Flavien Loiseau, Edgar Zembra, Hervé Henry, Véronique Lazarus  
-**Links:** [Abstract](resources/documents/2025_GAMM/abstract.pdf) • [Presentation (html)](resources/documents/2025_GAMM/presentation/presentation.html) • [Presentation (pdf)](resources/documents/2025_GAMM/presentation/presentation.pdf)
+<strong>Flavien Loiseau</strong>, Edgar Zembra, Hervé Henry, Véronique Lazarus
+
+*GAMM PF 25 and Materials/Microstructure modelling: Analytics & Benchmarks <br> Karlsruhe, Germany, from February 12th to 14th, 2025*
+
+[Abstract](resources/documents/2025_GAMM/abstract.pdf) • [Presentation (html)](resources/documents/2025_GAMM/presentation/presentation.html) • [Presentation (pdf)](resources/documents/2025_GAMM/presentation/presentation.pdf)
 :::
 
-::: {.talk-card}
-#### MEALOR Days
-*Paris, France, from November 7th to 8th, 2024*
+::: {.talk-entry}
+Discussion on some difficulties with anisotropic phase-field fracture simulations
 
-**Title:** Discussion on some difficulties with anisotropic phase-field fracture simulations  
-**Authors:** Flavien Loiseau, Véronique Lazarus  
-**Links:** [Presentation](resources/documents/2024-11_MEALOR_Days/presentation.html)
+<strong>Flavien Loiseau</strong>, Véronique Lazarus
+
+*MEALOR Days <br> Paris, France, from November 7th to 8th, 2024*
+
+[Presentation](resources/documents/2024-11_MEALOR_Days/presentation.html)
 :::
 
-::: {.talk-card}
-#### Congrès des Jeunes Chercheurs en Mécanique - MECA-J 2024
-*Online, from August 28th to 30th, 2024*
+::: {.talk-entry}
+Phase field fracture: Towards a generic method to follow the equilibrium path of the structure
 
-**Title:** Phase field fracture: Towards a generic method to follow the equilibrium path of the structure  
-**Authors:** Flavien Loiseau, Véronique Lazarus  
-**Links:** [Abstract](resources/documents/2024-08_MECA-J/abstract.pdf) • [Presentation](resources/documents/2024-08_MECA-J/presentation.html)
+<strong>Flavien Loiseau</strong>, Véronique Lazarus
+
+*Congrès des Jeunes Chercheurs en Mécanique - MECA-J 2024 <br> Online, from August 28th to 30th, 2024*
+
+[Abstract](resources/documents/2024-08_MECA-J/abstract.pdf) • [Presentation](resources/documents/2024-08_MECA-J/presentation.html)
 :::
 
-::: {.talk-card}
-#### NewFrac Conference  
-*Porto, Portugal, from May 7th to 10th, 2024*
+::: {.talk-entry}
+Application of a generic path-following to phase-field fracture
 
-**Title:** Application of a generic path-following to phase-field fracture  
-**Authors:** Flavien Loiseau, Véronique Lazarus  
-**Links:** [Abstract](resources/documents/2024-05_NewFrac/abstract.pdf) • [Presentation](resources/documents/2024-05_NewFrac/presentation.html)
+<strong>Flavien Loiseau</strong>, Véronique Lazarus
+
+*NewFrac Conference <br> Porto, Portugal, from May 7th to 10th, 2024*
+
+[Abstract](resources/documents/2024-05_NewFrac/abstract.pdf) • [Presentation](resources/documents/2024-05_NewFrac/presentation.html)
 :::
 
-::: {.talk-card}
-#### International Conference on Computational Modeling of Fracture and Failure of Materials and Structures - CFRAC 2023
-*Prague, Czech Republic, from June 21th to 23th, 2023*
+::: {.talk-entry}
+Modeling anisotropic damage using a reconstruction by rational covariants of the elasticity tensor obtained by Discrete Element tests
 
-**Title:** Modeling anisotropic damage using a reconstruction by rational covariants of the elasticity tensor obtained by Discrete Element tests  
-**Authors:** Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat  
-**Links:** [Abstract](https://hal.science/hal-04346952)
+<strong>Flavien Loiseau</strong>, Cécile Oliver-Leblond, Rodrigue Desmorat
+
+*International Conference on Computational Modeling of Fracture and Failure of Materials and Structures - CFRAC 2023 <br> Prague, Czech Republic, from June 21st to 23rd, 2023*
+
+[Abstract](https://hal.science/hal-04346952)
 :::
 
-::: {.talk-card}
-#### Fourth International Conference on Damage Mechanics - ICDM4
-*Baton-Rouge, United States, from May 15th to 18th, 2024*
+::: {.talk-entry}
+Anisotropic Damage Model Based on a Decomposition of the Elasticity Tensor in Terms of Covariants
 
-**Title:** Anisotropic Damage Model Based on a Decomposition of the Elasticity Tensor in Terms of Covariants  
-**Authors:** Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat  
-**Links:** [Abstract](https://hal.science/hal-04346936)
+<strong>Flavien Loiseau</strong>, Cécile Oliver-Leblond, Rodrigue Desmorat
+
+*Fourth International Conference on Damage Mechanics - ICDM4 <br> Baton-Rouge, United States, from May 15th to 18th, 2024*
+
+[Abstract](https://hal.science/hal-04346936)
 :::
 
-::: {.talk-card}
-#### Congrès Français de Mécanique 2022 - CFM2022
-*Nantes, France, from August 29th to September 2nd, 2024*
+::: {.talk-entry}
+From bi-dimensional discrete model to anisotropic damage model: a feasibility study
 
-**Title:** From bi-dimensional discrete model to anisotropic damage model: a feasibility study  
-**Authors:** Flavien Loiseau, Cécile Oliver-Leblond, Rodrigue Desmorat  
-**Links:** [Abstract](https://hal.science/hal-03892314)
+<strong>Flavien Loiseau</strong>, Cécile Oliver-Leblond, Rodrigue Desmorat
+
+*Congrès Français de Mécanique 2022 - CFM2022 <br> Nantes, France, from August 29th to September 2nd, 2024*
+
+[Abstract](https://hal.science/hal-03892314)
 :::

@@ -2,6 +2,7 @@ project:
   type: website
   resources: 
     - "resources/"
+    - "scripts/"
 
 website:
   title: "Flavien Loiseau"
@@ -18,6 +19,7 @@ website:
         # right:
         #   - text: Google Scholar
         #     href: https://scholar.google.fr/citations?user=0UFftRMAAAAJ
+  open-graph: true
 
 format:
   html:

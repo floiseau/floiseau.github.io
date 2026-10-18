@@ -2,5 +2,24 @@
 title: "Publications"
 ---
 
-<iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=flavien-loiseau&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" width="100%" height="99%" scrolling="yes"></iframe>
+<div id="publications-container"></div>
+
+---
+
+*Publications are automatically fetched from [HAL](https://hal.science/). Last updated: <span id="last-updated"></span>*
+
+<script src="scripts/fetch-hal.js"></script>
+<script>
+// Add last updated timestamp
+document.getElementById('last-updated').textContent = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// Add loading spinner
+const container = document.getElementById('publications-container');
+container.innerHTML = `
+  <div class="loading-spinner">
+    <div class="spinner"></div>
+    <p>Loading publications from HAL...</p>
+  </div>
+`;
+</script>
 
