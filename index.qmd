@@ -19,7 +19,17 @@ I place a strong emphasis on establishing solid mathematical foundations for mod
 ## News
 
 ::: {.news-item}
-📝 [18-09-2026] **New preprint online**
+📣 [2026-11-17] **M2 internship: Modeling the shearing of an RNR-Na fuel assembly**
+
+We are offering a 5-6 month Master's internship (February-August 2027), in collaboration with Orano, on the numerical simulation of the shearing of sodium-cooled fast reactor fuel assemblies, a key step in the recycling of spent nuclear fuel.
+
+The internship will take place at LaMCoS (INSA Lyon).
+
+[See the offer](https://floiseau.github.io/2026_Stage_M2_Cisaillage_d_un_assemblage_combustible_RNR-Na/)
+:::
+
+::: {.news-item}
+📝 [2026-09-18] **New preprint online**
 
 Numerical benchmark to assess sensitivity to spatial discretization in quasi-static fracture simulations: Application to phase-field models
 
